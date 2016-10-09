@@ -1,0 +1,18 @@
+in case of errors, with diffs we can see the only parts of the software that was changed and inspect it for the error find process
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+we can use the previous version of a software to restore part of it in case of problems. The history of modifications can be automated with the SVC.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+---
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+---
+
+How can you use the commands git log and git diff to view the history of files?
+---
+
+How might using version control make you more confident to make changes that could break something?
+---
+Now that you have your workspace set up, what do you want to try using Git for?
+--
